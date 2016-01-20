@@ -9,6 +9,8 @@ namespace JenkinsCI
     {
         static void Main(string[] args)
         {
+
+
             Console.WriteLine(CreateMessage());
         }
 
