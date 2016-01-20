@@ -1,0 +1,7 @@
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\obj\Debug\JenkinsCI.Test.csprojResolveAssemblyReference.cache
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\bin\Debug\JenkinsCI.Test.dll
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\bin\Debug\JenkinsCI.Test.pdb
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\bin\Debug\JenkinsCI.exe
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\bin\Debug\JenkinsCI.pdb
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\obj\Debug\JenkinsCI.Test.dll
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI.Test\obj\Debug\JenkinsCI.Test.pdb
