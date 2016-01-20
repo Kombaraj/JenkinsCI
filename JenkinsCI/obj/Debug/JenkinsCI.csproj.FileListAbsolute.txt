@@ -2,3 +2,4 @@ C:\Kombaraj\Test\JenkinsCI\JenkinsCI\bin\Debug\JenkinsCI.exe
 C:\Kombaraj\Test\JenkinsCI\JenkinsCI\bin\Debug\JenkinsCI.pdb
 C:\Kombaraj\Test\JenkinsCI\JenkinsCI\obj\Debug\JenkinsCI.exe
 C:\Kombaraj\Test\JenkinsCI\JenkinsCI\obj\Debug\JenkinsCI.pdb
+C:\Kombaraj\Test\JenkinsCI\JenkinsCI\obj\Debug\JenkinsCI.csprojResolveAssemblyReference.cache
